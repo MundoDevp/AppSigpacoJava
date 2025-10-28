@@ -8,6 +8,7 @@ En la siguiente información se muestra el diagrama de clases del proyecto **SIG
 - Netbeans 21 -- [Descargar](http://https://netbeans.apache.org/front/main/download/nb21/ "Descargar")
 
 La instalación debe ser en el orden establecido, primero JDK quien permite el desarrollo y compilación de aplicaciones Java.
+Realizar la instalación de Netbeans 21
 
 ## Diagrama de clases
 Los **diagramas de clase** son herramientas utilizadas actualmente y desde hace algunas décadas para el diseño de software una vez que los posibles requerimientos han sido analizados en las etapas anteriores como la obtención de requerimientos.
